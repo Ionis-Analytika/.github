@@ -1,7 +1,5 @@
 ![Dark_Banner](https://github.com/Ionis-Analytika/.github/assets/49552078/7e2a79f5-58d9-493c-83f8-8ac0d38bc1af)
 
-# Our Services
-
 Welcome to Ionis Analytika, where we empower businesses to make data-driven decisions and unlock their full potential. Our team of expert data analysts and consultants is dedicated to providing top-notch services tailored to meet your specific needs. Whether you're a small startup or a large corporation, we have the expertise to help you harness the power of your data.
 
 ## Our Services
